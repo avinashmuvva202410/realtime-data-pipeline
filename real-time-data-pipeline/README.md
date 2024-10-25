@@ -14,5 +14,7 @@ This project implements a real-time streaming data pipeline using Kafka and Dock
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd real-time-data-pipeline
+   git clone https://github.com/avinashmuvva202410/realtime-data-pipeline/tree/main/real-time-data-pipeline
+
+
+
